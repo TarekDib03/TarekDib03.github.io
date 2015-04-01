@@ -1,0 +1,1 @@
+"Introduction to Data Science" is a course taught by Nina Zumel and John Mount through udemy platform.
